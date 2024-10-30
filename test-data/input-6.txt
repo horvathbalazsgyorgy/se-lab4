@@ -1,0 +1,4 @@
+# Create a ship with 2 torpedos in both stores
+GT4500,0,0,2,0
+TORPEDO,SINGLE  # should have fired from the secondary store
+TORPEDO,SINGLE  # should have fired from the secondary store again
